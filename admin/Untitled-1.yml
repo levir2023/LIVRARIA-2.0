@@ -1,0 +1,5 @@
+1 - Criar uma nova tabela no banco para receber os banner
+2 - Criar uma nova página para CRUD dos banners
+3 - Somente o administrador que cadastrou o banner pode deletá-lo
+4 - Listar os banners para na página inicial
+5 - Caso não tenha imagem, não mostra nada
